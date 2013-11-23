@@ -459,5 +459,9 @@
   <project path="vendor/nvidia" name="vendor_nvidia" remote="vanir" revision="kk44" />
   <project path="vendor/nxp" name="TheMuppets/proprietary_vendor_nxp" remote="github" revision="cm-11.0" />
   <project path="vendor/widevine" name="vendor_widevine" remote="vanir" revision="kk44" />
+  
+  <project name="android_device_htc_dlx" path="device/htc/dlx" remote="cm" revision="cm-11.0" />
+  <project name="android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="cm" revision="cm-11.0" />
+  <project name="android_kernel_htc_m7" path="kernel/htc/m7" remote="cm" revision="cm-11.0" />
 
 </manifest>
